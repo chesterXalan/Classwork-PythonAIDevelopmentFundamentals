@@ -1,5 +1,5 @@
 # Classwork-PythonAIDevelopmentFundamentals
-The classwork from Python & AI Development Fundamentals.
+The classwork from Python & AI Development Fundamentals.\
 Python與AI開發入門 上課內容
 
 ## 課程內容
