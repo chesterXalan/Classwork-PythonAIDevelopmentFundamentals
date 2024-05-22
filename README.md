@@ -13,3 +13,4 @@ Python與AI開發入門 上課內容
 - [20240513](https://github.com/chesterXalan/Classwork-PythonAIDevelopmentFundamentals/tree/main/lesson08) (08/22)
 - [20240515](https://github.com/chesterXalan/Classwork-PythonAIDevelopmentFundamentals/tree/main/lesson09) (09/22)
 - [20240520](https://github.com/chesterXalan/Classwork-PythonAIDevelopmentFundamentals/tree/main/lesson10) (10/22)
+- [20240522](https://github.com/chesterXalan/Classwork-PythonAIDevelopmentFundamentals/tree/main/lesson11) (11/22)
