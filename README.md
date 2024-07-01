@@ -1,8 +1,10 @@
 # Classwork-PythonAIDevelopmentFundamentals
+
 The classwork from Python & AI Development Fundamentals.\
 Python與AI開發入門 上課內容
 
 ## 課程內容
+
 - [20240417](https://github.com/chesterXalan/Classwork-PythonAIDevelopmentFundamentals/tree/main/lesson01) (01/22)
 - [20240422](https://github.com/chesterXalan/Classwork-PythonAIDevelopmentFundamentals/tree/main/lesson02) (02/22)
 - [20240424](https://github.com/chesterXalan/Classwork-PythonAIDevelopmentFundamentals/tree/main/lesson03) (03/22)
@@ -23,3 +25,4 @@ Python與AI開發入門 上課內容
 - [20240619](https://github.com/chesterXalan/Classwork-PythonAIDevelopmentFundamentals/tree/main/lesson18) (18/22)
 - [20240624](https://github.com/chesterXalan/Classwork-PythonAIDevelopmentFundamentals/tree/main/lesson19) (19/22)
 - [20240626](https://github.com/chesterXalan/Classwork-PythonAIDevelopmentFundamentals/tree/main/lesson20) (20/22)
+- [20240701](https://github.com/chesterXalan/Classwork-PythonAIDevelopmentFundamentals/tree/main/lesson21) (21/22)
